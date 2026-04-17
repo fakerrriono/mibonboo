@@ -1,0 +1,6 @@
+{
+  "name": "PayPal Security Portal",
+  "description": "Ein klar strukturiertes und sicheres Portal für PayPal-Kunden zur Wiederherstellung kompromittierter Konten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
